@@ -123,12 +123,82 @@ nav li a{
     gap: 80px;
 }
 .stat strong{
-    /* font-size: 30px;
-    color: rgb(0, 0, 0);
-    opacity: 100%; */
     display: block;
-    font-size: 36px;
+    font-size: 56px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #4f46e5;
 }
-     
+/* users styling */
+.users-section{
+  margin-bottom: 300px;
+  justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+}
+.users-h3{
+    text-align: center;
+   display: flex;
+    padding-left: 230px;
+}
+.users-container{
+    width: 300px;
+    
+    
+}
+.users-review {
+    width: 370px;
+    height: 245px;
+    border-radius: 5px;
+    margin-left: 50px;
+    margin: 0%;
 
+    
+}
+.Reviewer{
+    border-radius: 55px;
+}
+.Reviewer-name{
+    font-size: large;
+    padding-bottom: 70px;
+}    
+.Reviewer-date{
+    font-size: medium;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+.ready-section{
+    text-align: center;
+    
+    
+}
+.ready-para{
+    font-size: 26px;
+    font-weight: lighter;
+}
+.ready-img{
+    border-radius: 35px;
+}
+section h3 {
+    display: flex;
+    text-align: center;
+    font-size: 95px;
+    font-weight: bold;
+    padding-left: 40px;
+}
+.textarea{
+    padding-left: 600px;
+    display: inline-block;
+    align-items: center;
+    margin: 0px 0px 30px 0px;
+}
+h2{
+    padding-left:600px ;
+    color: #4f46e5;
+}
+.LOGO p{
+    font-size: 16px;
+    font-weight: 100;
+    display: flex;
+}
